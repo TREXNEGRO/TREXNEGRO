@@ -1,5 +1,28 @@
-![FaceLzer](https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966)
-<br />
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Columnas HTML</title>
+    <style>
+        /* Estilo para las columnas */
+        .container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* Ajusta según tus necesidades */
+        .column {
+            width: 48%; /* Deja un poco de espacio entre las columnas */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="column">
+        
+
+
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
@@ -13,6 +36,32 @@ Management Systems, Operating Systems
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+    </div>
+    <div class="column">
+        ![FaceLzer](https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966)
+    </div>
+</div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
 
