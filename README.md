@@ -74,7 +74,7 @@ This space on Github is not only a repository of projects, it is a reflection of
 
 ## Connect with me 
 
-<a href="https://www.instagram.com/erazo_seb/" target="_blank">
+<a href="[https://www.instagram.com/erazo_seb/](https://www.instagram.com/er4z0_s3b/)" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/jeremy-erazo-0811081b2/" target="_blank">
