@@ -58,16 +58,6 @@ Aquí encontrarás herramientas propias, PoCs, simulaciones y experimentos en en
 
 ---
 
-## 📁 Proyectos destacados
-
-- 🧿 **ReverseShell-Creator** - Framework en Python para generar payloads con técnicas de evasión AV/EDR.
-- 💉 **Obfuscation-Lab** - Laboratorio de ofuscación de scripts PowerShell y JS.
-- 🧬 **Red Team Arsenal** - Colección de scripts y técnicas para AD, persistence, enumeration y más.
-- ⚙️ **PE Injector** - Inyector de DLLs y ejecutables usando técnicas de hollowing y process injection.
-- 🧨 **Exploit Dev Playground** - Ejercicios personales sobre Stack Overflow, ROP y Shellcode Injection.
-
----
-
 ## 🔗 Conecta conmigo
 
 <a href="https://www.instagram.com/er4z0_s3b/" target="_blank">
