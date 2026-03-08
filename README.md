@@ -9,6 +9,4 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 
-<p align="center">
-  <img src="https://media.tenor.com/W0S9K6tZqS0AAAAC/ikaros.gif" width="350">
-</p>
+![Oops](https://media.tenor.com/1Y0PtF7cO3sAAAAC/oops-ua-a-re.gif)
