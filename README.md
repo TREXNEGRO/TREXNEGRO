@@ -8,5 +8,6 @@
 <a href="https://www.linkedin.com/in/jeremy-erazo-0811081b2/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
-
-![Oops](https://media.tenor.com/1Y0PtF7cO3sAAAAC/oops-ua-a-re.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/zkppEMFvRX5FC/giphy.gif" width="350">
+</p>
